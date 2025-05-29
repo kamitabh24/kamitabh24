@@ -3,7 +3,7 @@
 🎓 Final Year B.Tech CSE | 💻 Java | Spring Boot | Fullstack Developer  
 🌍 From New Delhi, India | 🇵🇱 Aiming to work in Poland & Europe  
 🕒 Dedicated 10+ hrs/day to skill-building & learning
-![Resume](https://drive.google.com/file/d/1AL7eAexAjRLRtuxLfdVrjoHahtoMDiHP/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1AL7eAexAjRLRtuxLfdVrjoHahtoMDiHP/view?usp=sharing)
 
 ---
 
@@ -27,7 +27,7 @@
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kamitabh/)
 - 📬 Email: kamitabh2003@gmail.com
-- 🌟 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(optional)*
+- 🌟 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
 
